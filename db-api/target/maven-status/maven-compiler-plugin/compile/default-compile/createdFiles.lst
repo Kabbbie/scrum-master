@@ -1,0 +1,5 @@
+ru\milovanov\App.class
+ru\milovanov\jdo\Commentary.class
+ru\milovanov\Controller.class
+ru\milovanov\dao\CommentaryDao.class
+ru\milovanov\jdo\Commentary$CommentaryBuilder.class
